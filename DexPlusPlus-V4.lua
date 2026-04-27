@@ -14272,7 +14272,7 @@ Main = (function()
 	Main.Apps = Apps
 	Main.MenuApps = {}
 	Main.GitName = "Velaric"
-	Main.RepoName = "DexPlusPlus-V4"
+	Main.RepoName = "Dex++"
 	Main.GitRepoName = Main.GitName.."/"..Main.RepoName
 
 	Main.DisplayOrders = {
